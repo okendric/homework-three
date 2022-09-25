@@ -1,5 +1,6 @@
 .home {
     .hero {
+        position: relative;
 
         h1 {
             font-size: 60px;
@@ -23,9 +24,9 @@
             width: 122px;
             background-color: #79ADDC;
             font-size: 15px;
-            position: absolute;
+            position: relative;
             text-align: center;
-            margin-left: 30.5%;
+            margin: 0 auto;
             letter-spacing: 1px;
             padding-top: 10px;
             margin-top: 24px;
@@ -35,11 +36,11 @@
     }
 }
 
-.promo-trips {
-        width: 1280px;
-        margin: 0 auto;
-        background-color: gray;
-        height: 2000px;
-    }
+// .promo-trips {
+//         width: 1280px;
+//         margin: 0 auto;
+//         background-color: gray;
+//         height: 2000px;
+//     }
 
  
