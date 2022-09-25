@@ -1,0 +1,6 @@
+@mixin site-button($radius) {
+    background-color: #79ADDC;
+    border-radius: $radius;
+    color: #fff;
+    padding: 11px 21px;
+}

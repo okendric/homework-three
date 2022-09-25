@@ -1,0 +1,45 @@
+.home {
+    .hero {
+
+        h1 {
+            font-size: 60px;
+            color: white;
+            font-family: 'Proxima', sans-serif;
+            text-align: center;
+            margin-top: -338px;
+        }
+
+        p {
+            font-size: 20px;
+            color: white;
+            text-align: center;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            width: 36%;
+            margin: 0 auto;
+        }
+
+        .read-more {
+            height: 40px;
+            width: 122px;
+            background-color: #79ADDC;
+            font-size: 15px;
+            position: absolute;
+            text-align: center;
+            margin-left: 30.5%;
+            letter-spacing: 1px;
+            padding-top: 10px;
+            margin-top: 24px;
+            color: white;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+    }
+}
+
+.promo-trips {
+        width: 1280px;
+        margin: 0 auto;
+        background-color: gray;
+        height: 2000px;
+    }
+
+ 
